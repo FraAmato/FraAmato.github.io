@@ -11,9 +11,9 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Francesco Amato"
 title_separator          : "-"
-name                     : &name "Francesco Amato"
-description              : &description "Academic Portfolio and Research"
-url                      : https://fraamato.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : "Francesco Amato"
+description              : "Academic Portfolio and Research"
+url                      : https://fraamato.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "FraAmato/fraamato.github.io"
 
@@ -24,11 +24,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Francesco Amato"
-  pronouns         : # example: "he/him"  
+  pronouns         : "he/him"  
   bio              : "PhD in Applied Mathematics | Researcher & Lecturer"
   location         : "Lyon"
   employer         : "Université Lumière Lyon 2"
-  uri              : # URL
+  #uri              : # URL
   email            : "fr.amato1997@gmail.com" 
 
   # Academic websites
