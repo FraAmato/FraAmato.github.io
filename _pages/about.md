@@ -28,6 +28,7 @@ I am a temporary Researcher and Lecturer (ATER) at Université Lumière Lyon 2. 
 
 ## Contact info
 E-mail address: francesco.amato@univ-lyon2.fr
+
 Adresse: 
 Laboratoire ERIC
 bureau K069
