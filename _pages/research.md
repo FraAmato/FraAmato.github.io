@@ -30,6 +30,10 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
   font-weight: 600; 
   color: #2c3e50; 
 }
+.pub-authors {
+  color: #34495e;
+  margin-bottom: 0.2em;
+}
 .pub-venue { 
   color: #7f8c8d; 
   font-style: italic; 
@@ -46,6 +50,7 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
       {% endunless %}
 <div class="pub-item">
   <div class="pub-title"><a href="{{ post.url }}">{{ post.title }}</a></div>
+  {% if post.authors %}<div class="pub-authors">{{ post.authors }}</div>{% endif %}
   <div class="pub-venue">{{ post.venue }}, {{ post.date | date: "%Y" }}</div>
 </div>
     {% endif %}
