@@ -21,20 +21,33 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 
 ## Publications
 
-<div style="font-size: 0.85em;">
+<style>
+.pub-item { 
+  margin-bottom: 1.5em; 
+  font-size: 0.9em; 
+}
+.pub-title { 
+  font-weight: 600; 
+  color: #2c3e50; 
+}
+.pub-venue { 
+  color: #7f8c8d; 
+  font-style: italic; 
+}
+</style>
 
-{% for category in site.publication_category  %}
-  {% assign category_posts = site.publications | where: "category", category[0] %}
-  {% if category_posts.size > 0 %}
+{% for category in site.publication_category %}
+  {% assign has_pubs = false %}
+  {% for post in site.publications %}
+    {% if post.category == category[0] %}
+      {% unless has_pubs %}
 ### {{ category[1].title }}
-    {% for post in category_posts reversed %}
-<div style="margin-bottom: 1em; padding-left: 1em; border-left: 3px solid #e1e4e8;">
-  <strong><a href="{{ post.url }}">{{ post.title }}</a></strong><br>
-  <em>{{ post.venue }}</em>, {{ post.date | date: "%Y" }}<br>
-  {% if post.excerpt %}<span style="color: #666;">{{ post.excerpt }}</span>{% endif %}
+        {% assign has_pubs = true %}
+      {% endunless %}
+<div class="pub-item">
+  <div class="pub-title"><a href="{{ post.url }}">{{ post.title }}</a></div>
+  <div class="pub-venue">{{ post.venue }}, {{ post.date | date: "%Y" }}</div>
 </div>
-    {% endfor %}
-  {% endif %}
+    {% endif %}
+  {% endfor %}
 {% endfor %}
-
-</div>
