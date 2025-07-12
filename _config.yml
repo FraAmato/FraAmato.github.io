@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Francesco Amato - Ciao"
+title                    : "Francesco Amato"
 title_separator          : "-"
 name                     : "Francesco Amato"
 description              : "Academic Portfolio and Research"
-url                      : https://fraamato.github.io
+url                      : "https://fraamato.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "FraAmato/FraAmato.github.io"
 
