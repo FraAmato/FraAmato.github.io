@@ -56,6 +56,11 @@
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCID</a></li>
       {% endif %}
+      {% if author.hal %}
+        <li><a href="{{ author.hal }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+        <img src="/images/hal-icon.svg" width="16" height="16" style="margin-right: 5px;" alt="HAL"> HAL
+       </a></li>
+      {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed ai-fw icon-pad-right"></i>PubMed</a></li>
       {% endif %}                        
