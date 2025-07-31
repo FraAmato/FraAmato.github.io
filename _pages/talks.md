@@ -324,7 +324,7 @@ author_profile: true
     <span class="talk-type-badge poster-badge">Poster</span>
   </div>
 
-  <div class="poster-talk talk-item">
+   <div class="poster-talk talk-item">
     <div class="talk-title">Clustering Longitudinal Ordinal Data</div>
     <div class="talk-venue">StatLearn</div>
     <div class="talk-location">📍 Cargèse, France</div>
@@ -332,9 +332,10 @@ author_profile: true
     <div class="talk-abstract">
       Early-stage research presentation at the statistical learning conference, receiving valuable feedback from the machine learning and statistics community.
     </div>
-    <div style="display: flex; align-items: center; justify-content: space-between; margin-top: 10px;">
+    <div class="conference-links">
+      <a href="https://hal.univ-lyon2.fr/hal-03657085v1" target="_blank">📊 Poster PDF</a>
+    </div>
     <span class="talk-type-badge poster-badge">Poster</span>
-    <a href="https://hal.univ-lyon2.fr/hal-03657085v1" target="_blank" class="conference-links" style="margin: 0;">📊 Poster PDF</a>
   </div>
 </div>
 
