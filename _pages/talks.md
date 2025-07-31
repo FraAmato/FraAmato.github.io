@@ -332,10 +332,9 @@ author_profile: true
     <div class="talk-abstract">
       Early-stage research presentation at the statistical learning conference, receiving valuable feedback from the machine learning and statistics community.
     </div>
-    <div class="conference-links">
-      <a href="https://hal.univ-lyon2.fr/hal-03657085v1" target="_blank">📊 Poster PDF</a>
-    </div>
+    <div style="display: flex; align-items: center; justify-content: space-between; margin-top: 10px;">
     <span class="talk-type-badge poster-badge">Poster</span>
+    <a href="https://hal.univ-lyon2.fr/hal-03657085v1" target="_blank" class="conference-links" style="margin: 0;">📊 Poster PDF</a>
   </div>
 </div>
 
