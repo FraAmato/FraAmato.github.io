@@ -286,6 +286,9 @@ author_profile: true
     <div class="talk-abstract">
       Introduction of the matrix-variate latent Gaussian approach for longitudinal ordinal clustering, with theoretical justification and simulation studies.
     </div>
+    <div class="conference-links">
+     <a href="https://hal.science/hal-03657066v1" target="_blank">📑 Extended Abstract</a>
+    </div>
     <span class="talk-type-badge contributed-badge">Contributed Talk</span>
   </div>
 </div>
@@ -302,7 +305,7 @@ author_profile: true
       Interactive poster session presenting the MMM algorithm to the international model-based clustering community, fostering collaborative discussions and feedback.
     </div>
     <div class="conference-links">
-      <a href="https://hal.science/hal-04849830v1" target="_blank">HAL Document</a>
+      <a href="https://hal.science/hal-04849830v1" target="_blank">📊 Poster PDF</a>
     </div>
     <span class="talk-type-badge poster-badge">Poster</span>
   </div>
@@ -316,7 +319,7 @@ author_profile: true
       International poster presentation showcasing ordinal data clustering methods to leading researchers in model-based clustering from around the world.
     </div>
     <div class="conference-links">
-      <a href="https://hal.science/hal-04849855v1" target="_blank">HAL Document</a>
+      <a href="https://hal.science/hal-04849855v1" target="_blank">📊 Poster PDF</a>
     </div>
     <span class="talk-type-badge poster-badge">Poster</span>
   </div>
@@ -330,7 +333,7 @@ author_profile: true
       Early-stage research presentation at the statistical learning conference, receiving valuable feedback from the machine learning and statistics community.
     </div>
     <div class="conference-links">
-      <a href="https://hal.univ-lyon2.fr/hal-03657085v1" target="_blank">HAL Document</a>
+      <a href="https://hal.univ-lyon2.fr/hal-03657085v1" target="_blank">📊 Poster PDF</a>
     </div>
     <span class="talk-type-badge poster-badge">Poster</span>
   </div>
