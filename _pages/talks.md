@@ -41,6 +41,15 @@ author_profile: true
   transition: transform 0.2s ease;
 }
 
+.organized-talk {
+  background: #f0f8ff;
+  border-left: 4px solid #ff9800;
+  padding: 20px;
+  margin: 15px 0;
+  border-radius: 0 8px 8px 0;
+  transition: transform 0.2s ease;
+}
+
 .contributed-talk {
   background: #f0f8ff;
   border-left: 4px solid #3498db;
@@ -102,6 +111,11 @@ author_profile: true
   color: #c62828;
 }
 
+.organized-badge {
+  background: #fff3e0;
+  color: #e65100;
+}
+  
 .contributed-badge {
   background: #e3f2fd;
   color: #1565c0;
@@ -187,8 +201,8 @@ author_profile: true
   <h3>📊 Presentation Statistics</h3>
   <div class="stats-grid">
     <div class="stat-card">
-      <div class="stat-number">3</div>
-      <div class="stat-label">Invited Talks</div>
+      <div class="stat-number">2</div>
+      <div class="stat-label">Organized Sessions</div>
     </div>
     <div class="stat-card">
       <div class="stat-number">4</div>
@@ -199,24 +213,27 @@ author_profile: true
       <div class="stat-label">Poster Presentations</div>
     </div>
     <div class="stat-card">
-      <div class="stat-number">7</div>
+      <div class="stat-number">5</div>
       <div class="stat-label">Countries</div>
     </div>
   </div>
 </div>
 
 <div class="talk-category">
-  <h3>🎯 Invited Talks</h3>
+  <h3>📢 Conference Presentations</h3>
   
-  <div class="invited-talk talk-item">
+  <div class="organized-talk talk-item">
     <div class="talk-title">Clustering Longitudinal Mixed-type Data</div>
     <div class="talk-venue">18th International Joint Conference CFE-CMStatistics (CFE-CMStatistics)</div>
     <div class="talk-location">📍 London, United Kingdom</div>
     <div class="talk-date">🗓️ December 11-13, 2024</div>
     <div class="talk-abstract">
-      Presentation of the MMM algorithm for clustering multivariate longitudinal mixed-type data, with applications to healthcare and social survey analysis. Focus on methodological innovations and practical implementation.
+      Presentation of the MMM algorithm for clustering multivariate longitudinal mixed-type data, with an applications to stock data. Focus on methodological innovations and computational implementation.
     </div>
-    <span class="talk-type-badge invited-badge">Invited Speaker</span>
+    <div class="conference-links">
+     <a href="https://hal.science/hal-04849671v1" target="_blank">📊 Slides</a>
+    </div>
+    <span class="talk-type-badge organized-badge">Organized Session</span>
   </div>
 
   <div class="invited-talk talk-item">
@@ -225,35 +242,9 @@ author_profile: true
     <div class="talk-location">📍 Lyon, France</div>
     <div class="talk-date">🗓️ July 12, 2024</div>
     <div class="talk-abstract">
-      Local presentation of research progress on mixed-type longitudinal clustering methods, delivered in French to the Lyon statistical community.
+      Long presentation of research progress and inovations of my thesis regarding mixed-type longitudinal clustering methods, delivered in French to the Lyon statistical community.
     </div>
     <span class="talk-type-badge invited-badge">Invited Speaker</span>
-  </div>
-
-  <div class="invited-talk talk-item">
-    <div class="talk-title">Clustering Longitudinal Ordinal Data</div>
-    <div class="talk-venue">29th Nordic Conference in Mathematical Statistics (NORDSTAT)</div>
-    <div class="talk-location">📍 Gothenburg, Sweden</div>
-    <div class="talk-date">🗓️ June 19-22, 2023</div>
-    <div class="talk-abstract">
-      Presentation of finite mixture models for matrix-variate distributions applied to longitudinal ordinal data, with theoretical foundations and empirical validation.
-    </div>
-    <span class="talk-type-badge invited-badge">Invited Speaker</span>
-  </div>
-</div>
-
-<div class="talk-category">
-  <h3>📢 Contributed Talks</h3>
-  
-  <div class="contributed-talk talk-item">
-    <div class="talk-title">Clustering Longitudinal Mixed Data</div>
-    <div class="talk-venue">International Conference on Statistics and Data Science (ICSDS), IMS</div>
-    <div class="talk-location">📍 Nice, France</div>
-    <div class="talk-date">🗓️ December 16-19, 2024</div>
-    <div class="talk-abstract">
-      Latest developments in the MMM methodology with focus on computational efficiency and scalability for large-scale longitudinal studies.
-    </div>
-    <span class="talk-type-badge contributed-badge">Contributed Talk</span>
   </div>
 
   <div class="contributed-talk talk-item">
@@ -264,8 +255,23 @@ author_profile: true
     <div class="talk-abstract">
       Presentation of mixed-type clustering advances at France's premier statistics conference, emphasizing practical applications and software implementation.
     </div>
+    <div class="conference-links">
+     <a href="https://hal.science/hal-04577985v1" target="_blank">📑 Extended Abstract</a>
+    </div>
     <span class="talk-type-badge contributed-badge">Contributed Talk</span>
   </div>
+
+  <div class="organized-talk talk-item">
+    <div class="talk-title">Clustering Longitudinal Ordinal Data</div>
+    <div class="talk-venue">29th Nordic Conference in Mathematical Statistics (NORDSTAT)</div>
+    <div class="talk-location">📍 Gothenburg, Sweden</div>
+    <div class="talk-date">🗓️ June 19-22, 2023</div>
+    <div class="talk-abstract">
+      Presentation of the MOM model, a finite mixture model for matrix-variate distributions applied to longitudinal ordinal data, with theoretical foundations and empirical validation.
+    </div>
+    <span class="talk-type-badge organized-badge">Organized Session</span>
+  </div>
+</div>
 
   <div class="contributed-talk talk-item">
     <div class="talk-title">Clustering Longitudinal Ordinal Data</div>
@@ -273,7 +279,7 @@ author_profile: true
     <div class="talk-location">📍 Bologna, Italy</div>
     <div class="talk-date">🗓️ August 23-26, 2022</div>
     <div class="talk-abstract">
-      Early presentation of ordinal data clustering methodology at the leading computational statistics conference, focusing on algorithmic innovations.
+      Early presentation of ordinal data clustering methodology at a leading computational statistics conference, focusing on computational issues.
     </div>
     <span class="talk-type-badge contributed-badge">Contributed Talk</span>
   </div>
@@ -284,7 +290,7 @@ author_profile: true
     <div class="talk-location">📍 Lyon, France</div>
     <div class="talk-date">🗓️ June 13-17, 2022</div>
     <div class="talk-abstract">
-      Introduction of the matrix-variate latent Gaussian approach for longitudinal ordinal clustering, with theoretical justification and simulation studies.
+      Introduction and theoretical justification of the matrix-variate latent Gaussian approach for longitudinal ordinal clustering.
     </div>
     <div class="conference-links">
      <a href="https://hal.science/hal-03657066v1" target="_blank">📑 Extended Abstract</a>
@@ -372,6 +378,17 @@ author_profile: true
 
 <div class="talk-category">
   <h3>🔗 Additional Presentations</h3>
+
+   <div class="contributed-talk talk-item">
+    <div class="talk-title">Clustering Longitudinal Mixed Data</div>
+    <div class="talk-venue">International Conference on Statistics and Data Science (ICSDS), IMS</div>
+    <div class="talk-location">📍 Nice, France</div>
+    <div class="talk-date">🗓️ December 16-19, 2024</div>
+    <div class="talk-abstract">
+      Presentation by Julien Jacques of our joint work regaring the latest developments of the MMM model to cluster longitudinal mixed-type data.
+    </div>
+    <span class="talk-type-badge contributed-badge">Contributed Talk</span>
+  </div>
   
   <div class="contributed-talk talk-item">
     <div class="talk-title">A longitudinal cross country comparison of migrant integration policies via Mixture of Matrix-Normals</div>
@@ -379,7 +396,7 @@ author_profile: true
     <div class="talk-location">📍 Caserta, Italy</div>
     <div class="talk-date">🗓️ June 2022</div>
     <div class="talk-abstract">
-      Collaborative presentation with Salvatore Leonardo Alaimo and Emiliano Seri on migration policy analysis using advanced statistical methods.
+      Presentation by Salvatore Leonardo Alaimo and Emiliano Seri of our joint work on migration policy longitudional analysis using mixture of normal matrix-normal distributions.
     </div>
     <div class="conference-links">
       <a href="https://hal.univ-lyon2.fr/hal-03661665v1" target="_blank">HAL Document</a>
@@ -387,6 +404,7 @@ author_profile: true
     <span class="talk-type-badge contributed-badge">Contributed Talk</span>
   </div>
 </div>
+
 
 {% comment %}
 <!-- Keep the original Jekyll talk loop in case you want to use it later -->
