@@ -214,7 +214,7 @@ author_profile: true
   <strong>Teaching Philosophy:</strong> I believe in combining theoretical rigor with practical application, ensuring students understand both the mathematical foundations and real-world applications of statistical methods. My approach emphasizes hands-on learning through programming exercises and real datasets.
 </div>
 
-## 📚 Current Teaching (2024-2025)
+## 📚 Current Teaching (Academic Year 2024-2025)
 
 <div class="teaching-category">
   
@@ -255,12 +255,32 @@ author_profile: true
     </div>
 
     <div class="course-item current-courses">
+      <div class="course-title">Statistique inférentielle</div>
+      <div class="course-details">
+        <div class="course-level">L3 - MIASHS</div>
+        <div class="course-hours">61h total</div>
+      </div>
+      <div class="course-period">
+        • 21h (Sep 2022 - Dec 2022)<br>
+        • 20h (Sep 2023 - Nov 2023)<br>
+        • 20h (Sep 2024 - Nov 2024)
+      </div>
+      <div class="course-description">
+        Statistical inference methods including hypothesis testing, confidence intervals, and parameter estimation. Hands-on applications with real datasets.
+      </div>
+    </div>
+
+    <div class="course-item current-courses">
       <div class="course-title">Modèles linéaires</div>
       <div class="course-details">
         <div class="course-level">L3 - MIASHS</div>
-        <div class="course-hours">20h</div>
+        <div class="course-hours">74h total</div>
       </div>
-      <div class="course-period">February 2025 - April 2025</div>
+      <div class="course-period">
+        • 32h (Jan 2023 - Apr 2023)<br>
+        • 22h (Feb 2024 - Apr 2024)<br>
+        • 20h (Feb 2025 - Apr 2025)
+      </div>
       <div class="course-description">
         Linear regression models, ANOVA, model diagnostics, and statistical inference. Practical implementation using R software.
       </div>
@@ -318,61 +338,6 @@ author_profile: true
       <div class="course-title">Apprentissage supervisé</div>
       <div class="course-details">
         <div class="course-level">M1 - Computer Science</div>
-        <div class="course-hours">14h</div>
-      </div>
-      <div class="course-period">February 2025 - March 2025</div>
-      <div class="course-description">
-        Supervised machine learning algorithms including classification and regression methods, model validation, and performance evaluation.
-      </div>
-    </div>
-  </div>
-</div>
-
-## 📖 Previous Teaching Experience
-
-<div class="teaching-category">
-  
-  <div class="level-section">
-    <div class="level-header">
-      <h4>🔄 Recurring Courses (2022-2024)</h4>
-    </div>
-    
-    <div class="course-item past-courses">
-      <div class="course-title">Statistique inférentielle</div>
-      <div class="course-details">
-        <div class="course-level">L3 - MIASHS</div>
-        <div class="course-hours">61h total</div>
-      </div>
-      <div class="course-period">
-        • 21h (Sep 2022 - Dec 2022)<br>
-        • 20h (Sep 2023 - Nov 2023)<br>
-        • 20h (Sep 2024 - Nov 2024)
-      </div>
-      <div class="course-description">
-        Statistical inference methods including hypothesis testing, confidence intervals, and parameter estimation. Hands-on applications with real datasets.
-      </div>
-    </div>
-
-    <div class="course-item past-courses">
-      <div class="course-title">Modèles linéaires</div>
-      <div class="course-details">
-        <div class="course-level">L3 - MIASHS</div>
-        <div class="course-hours">74h total</div>
-      </div>
-      <div class="course-period">
-        • 32h (Jan 2023 - Apr 2023)<br>
-        • 22h (Feb 2024 - Apr 2024)<br>
-        • 20h (Feb 2025 - Apr 2025)
-      </div>
-      <div class="course-description">
-        Linear regression analysis, model building, diagnostics, and interpretation. Emphasis on practical applications in social sciences.
-      </div>
-    </div>
-
-    <div class="course-item past-courses">
-      <div class="course-title">Apprentissage supervisé</div>
-      <div class="course-details">
-        <div class="course-level">M1 - Computer Science</div>
         <div class="course-hours">28h total</div>
       </div>
       <div class="course-period">
@@ -380,11 +345,11 @@ author_profile: true
         • 14h (Feb 2025 - Mar 2025)
       </div>
       <div class="course-description">
-        Advanced machine learning techniques including ensemble methods, neural networks, and deep learning applications.
+        Supervised machine learning algorithms including classification and regression methods, model validation, and performance evaluation.
       </div>
     </div>
 
-    <div class="course-item past-courses">
+    <div class="course-item current-courses">
       <div class="course-title">Programmation en Python</div>
       <div class="course-details">
         <div class="course-level">M1 - Computer Science</div>
