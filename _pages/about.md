@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Home"
 author_profile: true
 redirect_from: 
   - /about/
@@ -190,25 +190,15 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div class="pub-title">MSc in Statistics - Data Science</div>
-  <div class="pub-authors"><a href="https://corsi.unibo.it/2cycle/StatisticalSciences/index.html" target="_blank">University of Bologna</a>, Italy</div>
+  <div class="pub-title">MSc in Statistics</div>
+  <div class="pub-authors">University of Bologna, <a href="https://corsi.unibo.it/2cycle/StatisticalSciences/index.html" target="_blank">Data Science</a>, Italy</div>
   <div class="pub-venue">2021</div>
-  <div style="margin-top: 8px; font-size: 0.9em; color: #666;">
-    Language of instruction: English<br>
-    Grade: 110/110 cum laude<br>
-    Thesis: "The Power of Digital Humanities: An Application of Text Mining to Study the Evolution of the U.S. Presidential Discourse"
-  </div>
 </div>
 
 <div class="pub-item">
-  <div class="pub-title">BSc in Statistics - Stats&Maths</div>
-  <div class="pub-authors"><a href="https://corsi.unibo.it/1cycle/StatsMaths" target="_blank">University of Bologna</a>, Italy</div>
+  <div class="pub-title">BSc in Statistics</div>
+  <div class="pub-authors">University of Bologna, <a href="https://corsi.unibo.it/1cycle/StatsMaths" target="_blank">Stats&Maths</a>, Italy</div>
   <div class="pub-venue">2019</div>
-  <div style="margin-top: 8px; font-size: 0.9em; color: #666;">
-    Language of instruction: English<br>
-    Grade: 110/110 cum laude<br>
-    Thesis: "Analysis of Financial Time Series through GARCH, IGARCH and EGARCH Models"
-  </div>
 </div>
 
 ## 📧 Contact Info
