@@ -196,7 +196,7 @@ author_profile: true
       <div class="stat-label">Total Hours</div>
     </div>
     <div class="stat-card">
-      <div class="stat-number">13</div>
+      <div class="stat-number">10</div>
       <div class="stat-label">Different Courses</div>
     </div>
     <div class="stat-card">
@@ -224,141 +224,151 @@ author_profile: true
     </div>
     
     <div class="lecture-item">
-      <div class="course-title">Sciences des données - Analyse 2</div>
+      <div class="course-title">Data Science - Analysis 2</div>
       <div class="course-details">
         <div class="course-level">L2 - Computer Science</div>
         <div class="course-hours">10h</div>
       </div>
       <div class="course-period">January 2025 - February 2025</div>
       <div class="course-description">
-        Advanced data science concepts including statistical inference, hypothesis testing, and multivariate analysis. Focus on practical applications using R and Python.
+         Multivariable calculus covering continuity, differentiability, partial differentiation, convexity and optimization. 
       </div>
-      <span class="position-badge ater-badge">ATER Position</span>
     </div>
   </div>
 
-  <div class="level-section">
-    <div class="level-header">
-      <h4>🔬 Practical Sessions (Travaux Dirigés)</h4>
-    </div>
-    
-    <div class="course-item current-courses">
-      <div class="course-title">Algèbre et analyse des données</div>
-      <div class="course-details">
-        <div class="course-level">L2 - MIASHS (Mathematics, Computer Science, Applied to Human and Social Sciences)</div>
-        <div class="course-hours">20h</div>
-      </div>
-      <div class="course-period">February 2025 - April 2025</div>
-      <div class="course-description">
-        Linear algebra applications in data analysis, including PCA, matrix decompositions, and dimensionality reduction techniques.
-      </div>
-    </div>
+ <div class="level-section">
+  <div class="level-header">
+    <h4>🔬 Practical Sessions (Travaux Dirigés)</h4>
+  </div>
 
-    <div class="course-item current-courses">
-      <div class="course-title">Statistique inférentielle</div>
-      <div class="course-details">
-        <div class="course-level">L3 - MIASHS</div>
-        <div class="course-hours">61h total</div>
-      </div>
-      <div class="course-period">
-        • 21h (Sep 2022 - Dec 2022)<br>
-        • 20h (Sep 2023 - Nov 2023)<br>
-        • 20h (Sep 2024 - Nov 2024)
-      </div>
-      <div class="course-description">
-        Statistical inference methods including hypothesis testing, confidence intervals, and parameter estimation. Hands-on applications with real datasets.
-      </div>
+  <div class="course-item current-courses">
+    <div class="course-title">Python Programming</div>
+    <div class="course-details">
+      <div class="course-level">M1 - Computer Science</div>
+      <div class="course-hours">40h</div>
     </div>
-
-    <div class="course-item current-courses">
-      <div class="course-title">Modèles linéaires</div>
-      <div class="course-details">
-        <div class="course-level">L3 - MIASHS</div>
-        <div class="course-hours">74h total</div>
-      </div>
-      <div class="course-period">
-        • 32h (Jan 2023 - Apr 2023)<br>
-        • 22h (Feb 2024 - Apr 2024)<br>
-        • 20h (Feb 2025 - Apr 2025)
-      </div>
-      <div class="course-description">
-        Linear regression models, ANOVA, model diagnostics, and statistical inference. Practical implementation using R software.
-      </div>
+    <div class="course-period">September 2024 - December 2024</div>
+    <div class="course-description">
+      Comprehensive Python programming for data science, focussing on text analysis. From introduction covering syntax, data structures, classes, and inheritances to popular libraries such as NumPy, Pandas, Matplotlib, and Scikit-learn.
     </div>
+  </div>
 
-    <div class="course-item current-courses">
-      <div class="course-title">Sciences des données - Analyse 1</div>
-      <div class="course-details">
-        <div class="course-level">L1 - Computer Science</div>
-        <div class="course-hours">10h</div>
-      </div>
-      <div class="course-period">March 2025 - April 2025</div>
-      <div class="course-description">
-        Introduction to data science fundamentals: data types, descriptive statistics, data visualization, and basic statistical concepts.
-      </div>
+  <div class="course-item current-courses">
+    <div class="course-title">Inferential Statistics</div>
+    <div class="course-details">
+      <div class="course-level">L3 - MIASHS</div>
+      <div class="course-hours">61h total</div>
     </div>
-
-    <div class="course-item current-courses">
-      <div class="course-title">Programmation en C</div>
-      <div class="course-details">
-        <div class="course-level">L2 - Computer Science</div>
-        <div class="course-hours">40h</div>
-      </div>
-      <div class="course-period">January 2025 - March 2025</div>
-      <div class="course-description">
-        Comprehensive C programming course covering syntax, data structures, memory management, and algorithm implementation.
-      </div>
+    <div class="course-period">
+      • 21h (Sep 2022 - Dec 2022)<br>
+      • 20h (Sep 2023 - Nov 2023)<br>
+      • 20h (Sep 2024 - Nov 2024)
     </div>
-
-    <div class="course-item current-courses">
-      <div class="course-title">Analyse exploratoire des données</div>
-      <div class="course-details">
-        <div class="course-level">L3 - Computer Science</div>
-        <div class="course-hours">12h</div>
-      </div>
-      <div class="course-period">February 2025 - March 2025</div>
-      <div class="course-description">
-        Exploratory data analysis techniques, data visualization, statistical summaries, and pattern discovery methods.
-      </div>
+    <div class="course-description">
+      Statistical inference methods including hypothesis testing, confidence intervals, and parameter estimation. Practical implementation using R.
     </div>
+  </div>
 
-    <div class="course-item current-courses">
-      <div class="course-title">Modélisation linéaire</div>
-      <div class="course-details">
-        <div class="course-level">L3 - Computer Science</div>
-        <div class="course-hours">12h</div>
-      </div>
-      <div class="course-period">February 2025 - March 2025</div>
-      <div class="course-description">
-        Linear modeling techniques for computer science applications, including regression analysis and predictive modeling.
-      </div>
+  <div class="course-item current-courses">
+    <div class="course-title">C Programming</div>
+    <div class="course-details">
+      <div class="course-level">L2 - Computer Science</div>
+      <div class="course-hours">40h</div>
     </div>
-
-    <div class="course-item current-courses">
-      <div class="course-title">Apprentissage supervisé</div>
-      <div class="course-details">
-        <div class="course-level">M1 - Computer Science</div>
-        <div class="course-hours">28h total</div>
-      </div>
-      <div class="course-period">
-        • 14h (Feb 2024 - Mar 2024)<br>
-        • 14h (Feb 2025 - Mar 2025)
-      </div>
-      <div class="course-description">
-        Supervised machine learning algorithms including classification and regression methods, model validation, and performance evaluation.
-      </div>
+    <div class="course-period">January 2025 - March 2025</div>
+    <div class="course-description">
+      Introductory C programming course covering syntax, data structures, memory management, and algorithm implementation.
     </div>
+  </div>
 
-    <div class="course-item current-courses">
-      <div class="course-title">Programmation en Python</div>
-      <div class="course-details">
-        <div class="course-level">M1 - Computer Science</div>
-        <div class="course-hours">40h</div>
-      </div>
-      <div class="course-period">September 2024 - December 2024</div>
-      <div class="course-description">
-        Comprehensive Python programming for data science including NumPy, Pandas, Matplotlib, and Scikit-learn libraries.
-      </div>
+  <div class="course-item current-courses">
+    <div class="course-title">Algebra and Data Analysis</div>
+    <div class="course-details">
+      <div class="course-level">L2 - MIASHS (Mathematics, Computer Science, Applied to Human and Social Sciences)</div>
+      <div class="course-hours">20h</div>
+    </div>
+    <div class="course-period">February 2025 - April 2025</div>
+    <div class="course-description">
+      Introduction to linear algebra and its applications in data analysis, including matrix decompositions, PCA, and other dimensionality reduction techniques.
+    </div>
+  </div>
+
+  <div class="course-item current-courses">
+    <div class="course-title">Linear Models</div>
+    <div class="course-details">
+      <div class="course-level">L3 - MIASHS</div>
+      <div class="course-hours">74h total</div>
+    </div>
+    <div class="course-period">
+      • 32h (Jan 2023 - Apr 2023)<br>
+      • 22h (Feb 2024 - Apr 2024)<br>
+      • 20h (Feb 2025 - Apr 2025)
+    </div>
+    <div class="course-description">
+      Introduction to univariate and multivariate linear regression models, ANOVA, and model diagnostics. Practical implementation using R.
+    </div>
+  </div>
+
+  <div class="course-item current-courses">
+    <div class="course-title">Exploratory Data Analysis</div>
+    <div class="course-details">
+      <div class="course-level">L3 - Computer Science</div>
+      <div class="course-hours">12h</div>
+    </div>
+    <div class="course-period">February 2025 - March 2025</div>
+    <div class="course-description">
+      Exploratory data analysis techniques, data visualization, dimensionality reduction techniques. Practical implementation using R.
+    </div>
+  </div>
+
+  <div class="course-item current-courses">
+    <div class="course-title">Linear Modeling</div>
+    <div class="course-details">
+      <div class="course-level">L3 - Computer Science</div>
+      <div class="course-hours">12h</div>
+    </div>
+    <div class="course-period">February 2025 - March 2025</div>
+    <div class="course-description">
+     Introduction to univariate and multivariate linear regression models. Practical implementation using Python.
+    </div>
+  </div>
+
+  <div class="course-item current-courses">
+    <div class="course-title">Supervised Learning</div>
+    <div class="course-details">
+      <div class="course-level">M1 - Computer Science</div>
+      <div class="course-hours">28h total</div>
+    </div>
+    <div class="course-period">
+      • 14h (Feb 2024 - Mar 2024)<br>
+      • 14h (Feb 2025 - Mar 2025)
+    </div>
+    <div class="course-description">
+      Supervised machine learning algorithms including classification, regression methods, neural networks, model validation, and performance evaluation. Practical implementation using R.
+    </div>
+  </div>
+
+  <div class="course-item current-courses">
+    <div class="course-title">Data Science - Analysis 1</div>
+    <div class="course-details">
+      <div class="course-level">L1 - Computer Science</div>
+      <div class="course-hours">10h</div>
+    </div>
+    <div class="course-period">March 2025 - April 2025</div>
+    <div class="course-description">
+      Introductory calculus covering continuity, differentiability, partial differentiation, convexity and optimization for univariate functions.
+    </div>
+  </div>
+
+  <div class="course-item current-courses">
+    <div class="course-title">Data Science - Analysis 2</div>
+    <div class="course-details">
+      <div class="course-level">L2 - Computer Science</div>
+      <div class="course-hours">10h</div>
+    </div>
+    <div class="course-period">March 2025 - April 2025</div>
+    <div class="course-description">
+      Multivariable calculus covering continuity, differentiability, partial differentiation, convexity and optimization.
     </div>
   </div>
 </div>
@@ -373,11 +383,11 @@ author_profile: true
     </div>
     <div class="stat-card">
       <div style="font-size: 1.2em; margin-bottom: 10px;">💻 Programming</div>
-      <div class="stat-label">Python<br>C/C++<br>R Software</div>
+      <div class="stat-label">Python<br>C/C++<br>R</div>
     </div>
     <div class="stat-card">
       <div style="font-size: 1.2em; margin-bottom: 10px;">🤖 Machine Learning</div>
-      <div class="stat-label">Supervised Learning<br>Data Mining<br>Model Validation</div>
+      <div class="stat-label">Supervised Learning<br>Unsupervised Learning<br>Data Mining</div>
     </div>
     <div class="stat-card">
       <div style="font-size: 1.2em; margin-bottom: 10px;">📈 Data Science</div>
