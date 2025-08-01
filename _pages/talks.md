@@ -190,7 +190,7 @@ author_profile: true
 
 <div class="talks-intro">
   <h2>🎤 Presentations Overview</h2>
-  <p>My research has been presented at leading international conferences in statistics, computational statistics, and data science. I have been invited to speak at several prestigious venues and have contributed to major statistical conferences across Europe and beyond. My presentations focus on clustering methods for longitudinal mixed-type data and their applications in social sciences and healthcare.</p>
+  <p>My research on clustering methods for longitudinal mixed-type data has been presented at international conferences in statistics and computational statistics across Europe and North America. I have participated in organized sessions, contributed to major statistical conferences, and presented at specialized working groups. My presentations focus on methodological developments and applications.</p>
 </div>
 
 {% if site.talkmap_link == true %}
@@ -199,23 +199,22 @@ author_profile: true
 
 <div class="stats-section">
   <h3>📊 Presentation Statistics</h3>
+  <div class="stat-card">
+      <div class="stat-number">1</div>
+      <div class="stat-label">Invited Talk</div>
+    <\div>
   <div class="stats-grid">
     <div class="stat-card">
       <div class="stat-number">2</div>
       <div class="stat-label">Organized Sessions</div>
     </div>
     <div class="stat-card">
-      <div class="stat-number">4</div>
+      <div class="stat-number">3</div>
       <div class="stat-label">Contributed Talks</div>
     </div>
     <div class="stat-card">
       <div class="stat-number">3</div>
       <div class="stat-label">Poster Presentations</div>
-    </div>
-    <div class="stat-card">
-      <div class="stat-number">5</div>
-      <div class="stat-label">Countries</div>
-    </div>
   </div>
 </div>
 
@@ -296,7 +295,6 @@ author_profile: true
      <a href="https://hal.science/hal-03657066v1" target="_blank">📑 Extended Abstract</a>
     </div>
     <span class="talk-type-badge contributed-badge">Contributed Talk</span>
-  </div>
 </div>
 
 <div class="talk-category">
@@ -308,7 +306,7 @@ author_profile: true
     <div class="talk-location">📍 Bertinoro, Italy</div>
     <div class="talk-date">🗓️ July 22-26, 2024</div>
     <div class="talk-abstract">
-      Interactive poster session presenting the MMM algorithm to the international model-based clustering community, fostering collaborative discussions and feedback.
+      Interactive poster session presenting the MMM model to the international model-based clustering community, fostering collaborative discussions and feedback.
     </div>
     <div class="conference-links">
       <a href="https://hal.science/hal-04849830v1" target="_blank">📊 Poster PDF</a>
@@ -322,7 +320,7 @@ author_profile: true
     <div class="talk-location">📍 Pittsburgh, United States</div>
     <div class="talk-date">🗓️ July 17-21, 2023</div>
     <div class="talk-abstract">
-      International poster presentation showcasing ordinal data clustering methods to leading researchers in model-based clustering from around the world.
+      International poster presentation showcasing the MOM model, a longitudinal ordinal data clustering method, the international model-based clustering community.
     </div>
     <div class="conference-links">
       <a href="https://hal.science/hal-04849855v1" target="_blank">📊 Poster PDF</a>
@@ -336,7 +334,7 @@ author_profile: true
     <div class="talk-location">📍 Cargèse, France</div>
     <div class="talk-date">🗓️ April 4-7, 2022</div>
     <div class="talk-abstract">
-      Early-stage research presentation at the statistical learning conference, receiving valuable feedback from the machine learning and statistics community.
+      Early-stage research presentation at the statistical learning summer school, receiving valuable feedback.
     </div>
     <div class="conference-links">
       <a href="https://hal.univ-lyon2.fr/hal-03657085v1" target="_blank">📊 Poster PDF</a>
