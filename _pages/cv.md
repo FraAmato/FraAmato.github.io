@@ -1,4 +1,11 @@
----
+<div class="page-links">
+  <h3>📄 Download CV</h3>
+  <p>Complete PDF versions available for download:</p>
+  <div class="external-links">
+    <a href="/files/CV_Francesco_Amato_EN.pdf" target="_blank">📄 CV in English (PDF)</a>
+    <a href="/files/CV_Francesco_Amato_FR.pdf" target="_blank">📄 CV en Français (PDF)</a>
+  </div>
+</div>---
 layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
@@ -332,7 +339,7 @@ author_profile: true
 ## 💼 Professional Experience
 
 <div class="experience-item">
-  <div class="cv-title">ATER (Attaché Temporaire d'Enseignement et de Recherche)</div>
+  <div class="cv-title">ATER (Temporary Teaching and Research Associate)</div>
   <div class="cv-institution">Université Lumière Lyon 2, ICOM - Laboratoire ERIC</div>
   <div class="cv-period">September 2024 - Present</div>
   <div class="cv-details">
@@ -344,8 +351,8 @@ author_profile: true
 </div>
 
 <div class="experience-item">
-  <div class="cv-title">Tuteur pour CLAMSS - Master en Statistique</div>
-  <div class="cv-institution">Université de Bologne</div>
+  <div class="cv-title">Tutor for CLAMSS - Master in Statistics</div>
+  <div class="cv-institution">University of Bologna</div>
   <div class="cv-period">December 2019 - October 2021</div>
   <div class="cv-details">
     • Support for administrative structures in organizing teaching and orientation activities<br>
@@ -355,8 +362,8 @@ author_profile: true
 </div>
 
 <div class="experience-item">
-  <div class="cv-title">Statisticien stagiaire</div>
-  <div class="cv-institution">Fondation de recherche de l'Institut Cattaneo</div>
+  <div class="cv-title">Statistician Intern</div>
+  <div class="cv-institution">Cattaneo Institute Research Foundation</div>
   <div class="cv-period">February 2019 - June 2019</div>
   <div class="cv-details">
     • Electoral data collection, cleaning, and analysis using Excel and R<br>
@@ -366,8 +373,8 @@ author_profile: true
 </div>
 
 <div class="experience-item">
-  <div class="cv-title">Collaboration étudiante - 150 heures</div>
-  <div class="cv-institution">Université de Bologne</div>
+  <div class="cv-title">Student Collaboration - 150 hours</div>
+  <div class="cv-institution">University of Bologna</div>
   <div class="cv-period">July 2018 - June 2019 (intermittent)</div>
   <div class="cv-details">
     • Support, assistance, and supervision in computer laboratories and university classrooms<br>
@@ -446,60 +453,13 @@ author_profile: true
 ## 🏆 Awards & Recognition
 
 <div class="award-item">
-  <div class="cv-title">Première place - Défi de prévision des ventes</div>
+  <div class="cv-title">First Place - Sales Forecasting Challenge</div>
   <div class="cv-institution">FATER Company</div>
   <div class="cv-period">June 2020</div>
   <div class="cv-details">
     Team competition to build predictive models for weekly sales volume estimation across the Italian market. 
     The challenge involved understanding the impact of seasonality, media, and promotions on total sales volume 
     for the period April-September 2019.
-  </div>
-</div>
-
-## 🎭 Interests & Activities
-
-<div class="cv-section">
-  <h3 style="color: #2c3e50; margin-bottom: 15px;">🔍 Research Interests</h3>
-  <div class="cv-details" style="margin-bottom: 20px;">
-    I enjoy staying updated on current affairs and exploring their deep roots by reading and studying history, 
-    politics, economics, and social sciences in general.
-  </div>
-  
-  <h3 style="color: #2c3e50; margin-bottom: 15px;">🎯 Extracurricular Activities</h3>
-  
-  <div class="activity-item">
-    <div class="cv-title">Membre de "JEF - Jeunes Européens Fédéralistes"</div>
-    <div class="cv-period">February 2017 - Present</div>
-  </div>
-  
-  <div class="activity-item">
-    <div class="cv-title">Secrétaire de la section de Termoli "JEF - Jeunes Européens Fédéralistes"</div>
-    <div class="cv-period">September 2020 - September 2021</div>
-  </div>
-  
-  <div class="activity-item">
-    <div class="cv-title">Membre de l'aile jeunesse du Parti démocrate italien</div>
-    <div class="cv-period">February 2015 - February 2024</div>
-  </div>
-  
-  <div class="activity-item">
-    <div class="cv-title">Associé et contributeur de "Extrema Ratio"</div>
-    <div class="cv-period">February 2019 - September 2020</div>
-  </div>
-  
-  <div class="activity-item">
-    <div class="cv-title">Participant de LA.BO 2019 - Cours sur l'innovation politique</div>
-    <div class="cv-period">March 2019 - July 2020</div>
-  </div>
-  
-  <div class="activity-item">
-    <div class="cv-title">Membre de l'équipe de débat sur l'histoire contemporaine du lycée</div>
-    <div class="cv-period">November 2014 - May 2016</div>
-  </div>
-  
-  <div class="activity-item">
-    <div class="cv-title">Membre du groupe scout AGESCI "Termoli 3"</div>
-    <div class="cv-period">August 2006 - July 2017</div>
   </div>
 </div>
 
@@ -516,14 +476,6 @@ author_profile: true
       <div class="contact-item">
         <span class="contact-icon">👤</span>
         <a href="mailto:fr.amato1997@gmail.com" class="contact-link">fr.amato1997@gmail.com</a>
-      </div>
-    </div>
-    
-    <div>
-      <h4 style="color: #2c3e50; margin-bottom: 10px;">📱 Phone</h4>
-      <div class="contact-item">
-        <span class="contact-icon">📞</span>
-        <span>(+39) 3920791329</span>
       </div>
     </div>
   </div>
