@@ -326,7 +326,7 @@ author_profile: true
 <div class="pub-item">
   <div class="pub-title">Research Code Repository</div>
   <div style="margin-top: 8px; font-size: 0.9em; color: #666;">
-    Reproducible code for published research papers with README files, sample datasets, and step-by-step analysis scripts. Some open, some available on request for collaboration purposes.
+    Reproducible code for published research papers with README files, sample datasets, and step-by-step analysis scripts available on my GitHub page. Some open, some available on request for collaboration purposes.
   </div>
 </div>
 
