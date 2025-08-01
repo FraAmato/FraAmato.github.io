@@ -404,7 +404,7 @@ author_profile: true
   <div class="course-item">
     <div class="course-title">🔰 L1 - First Year Undergraduate</div>
     <div class="course-description">
-      <strong>Sciences des données - Analyse 1</strong> (10h) - Introduction to fundamental data science concepts and statistical thinking.
+      <strong>Data Science - Analyse 1</strong> (10h) - Introduction to calculus.
     </div>
   </div>
 
