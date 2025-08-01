@@ -181,31 +181,51 @@ redirect_from:
 
 <div class="pub-item">
   <div class="pub-title">PhD in Applied Mathematics</div>
-  <div class="pub-authors"><a href="https://www.univ-lyon2.fr/" target="_blank">Université Lumière Lyon 2</a>, <a href="https://eric.msh-lse.fr/" target="_blank">Laboratoire ERIC</a>, 2025</div>
+  <div class="pub-authors"><a href="https://www.univ-lyon2.fr/" target="_blank">Université Lumière Lyon 2</a>, <a href="https://eric.msh-lse.fr/" target="_blank">Laboratoire ERIC</a></div>
+  <div class="pub-venue">2025</div>
+  <div style="margin-top: 8px; font-size: 0.9em; color: #666;">
+    Thesis: "Mixed data temporal clustering for modelling longitudinal survey"<br>
+    Supervisors: Julien Jacques, Isabelle Prim-Allaz
+  </div>
 </div>
 
 <div class="pub-item">
   <div class="pub-title">MSc in Statistics - Data Science</div>
-  <div class="pub-authors"><a href="https://corsi.unibo.it/2cycle/StatisticalSciences/index.html" target="_blank">University of Bologna</a>, 2021</div>
+  <div class="pub-authors"><a href="https://corsi.unibo.it/2cycle/StatisticalSciences/index.html" target="_blank">University of Bologna</a>, Italy</div>
+  <div class="pub-venue">2021</div>
+  <div style="margin-top: 8px; font-size: 0.9em; color: #666;">
+    Language of instruction: English<br>
+    Grade: 110/110 cum laude<br>
+    Thesis: "The Power of Digital Humanities: An Application of Text Mining to Study the Evolution of the U.S. Presidential Discourse"
+  </div>
 </div>
 
 <div class="pub-item">
   <div class="pub-title">BSc in Statistics - Stats&Maths</div>
-  <div class="pub-authors"><a href="https://corsi.unibo.it/1cycle/StatsMaths" target="_blank">University of Bologna</a>, 2019</div>
+  <div class="pub-authors"><a href="https://corsi.unibo.it/1cycle/StatsMaths" target="_blank">University of Bologna</a>, Italy</div>
+  <div class="pub-venue">2019</div>
+  <div style="margin-top: 8px; font-size: 0.9em; color: #666;">
+    Language of instruction: English<br>
+    Grade: 110/110 cum laude<br>
+    Thesis: "Analysis of Financial Time Series through GARCH, IGARCH and EGARCH Models"
+  </div>
 </div>
 
 ## 📧 Contact Info
 
-<div class="external-links">
-  <div style="margin-bottom: 15px;">
-    <strong>Email:</strong> <a href="mailto:francesco.amato@univ-lyon2.fr" style="color: #3498db;">francesco.amato@univ-lyon2.fr</a>
+<div class="research-interests">
+  <div class="interest-card">
+    <h4>📧 Email</h4>
+    <p><a href="mailto:francesco.amato@univ-lyon2.fr" style="color: white; text-decoration: none;">francesco.amato@univ-lyon2.fr</a></p>
   </div>
-  <div style="text-align: left; max-width: 300px; margin: 0 auto;">
-    <strong>Address:</strong><br>
-    Laboratoire ERIC<br>
-    bureau K069<br>
-    5 av. Mendès France<br>
-    69676 BRON Cedex<br>
-    FRANCE
+  <div class="interest-card">
+    <h4>📍 Office Address</h4>
+    <p style="font-size: 0.9em; line-height: 1.4;">
+      <strong>Laboratoire ERIC</strong><br>
+      bureau K069<br>
+      5 av. Mendès France<br>
+      69676 BRON Cedex<br>
+      FRANCE
+    </p>
   </div>
 </div>
