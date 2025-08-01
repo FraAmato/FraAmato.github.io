@@ -215,7 +215,6 @@ author_profile: true
     <div class="stat-card">
       <div class="stat-number">3</div>
       <div class="stat-label">Poster Presentations</div>
-  </div>
 </div>
 
 <div class="talk-category">
