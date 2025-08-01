@@ -211,7 +211,7 @@ author_profile: true
 </div>
 
 <div class="teaching-philosophy">
- <strong>Teaching Philosophy:</strong>I believe in combining theoretical rigor with practical application, ensuring students understand both the mathematical foundations and real-world applications and usefulness of statistical methods. I always strive to adapt my courses to the needs and profiles of my students, combining academic rigor with kindness, never being judgmental. I believe that creating a supportive learning environment where students feel comfortable making mistakes and asking questions is essential for effective learning and personal growth.
+ <strong>Teaching Philosophy:</strong> I believe in combining theoretical rigor with practical application, ensuring students understand both the mathematical foundations and real-world applications and usefulness of statistical methods. I always strive to adapt my courses to the needs and profiles of my students, combining academic rigor with kindness, never being judgmental. I believe that creating a supportive learning environment where students feel comfortable making mistakes and asking questions is essential for effective learning and personal growth.
 </div>
 
 ## 📚 Current Teaching (Academic Year 2024-2025)
