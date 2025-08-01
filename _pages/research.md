@@ -202,7 +202,7 @@ author_profile: true
   <h2>🔬 My Research Focus</h2>
   <p>My research focuses on <strong>clustering longitudinal mixed-type data</strong> for modeling longitudinal surveys. I develop statistical methods that can handle the complexity of real-world data that evolves over time and contains different types of variables (continuous, ordinal, categorical). My work has applications in healthcare, social sciences, and survey research, particularly in understanding behavioral patterns and policy impacts over time.</p>
   
-  <p>I'm currently completing my PhD in Applied Mathematics at Université Lyon 2 under the supervision of <strong>Julien Jacques</strong> and <strong>Isabelle Prim-Allaz</strong>, with thesis defense scheduled for May 2025.</p>
+  <p>I completed my PhD in Applied Mathematics at Université Lyon 2 under the supervision of <strong>Julien Jacques</strong> and <strong>Isabelle Prim-Allaz</strong>, with my thesis defended in May 2025.</p>
 </div>
 
 <div class="research-interests">
@@ -217,10 +217,6 @@ author_profile: true
   <div class="interest-card">
     <h4>🔀 Mixed-Type Data</h4>
     <p>Methods for heterogeneous data types</p>
-  </div>
-  <div class="interest-card">
-    <h4>🏥 Applied Statistics</h4>
-    <p>Healthcare and social science applications</p>
   </div>
 </div>
 
@@ -283,9 +279,25 @@ author_profile: true
   <span class="status-badge thesis">In Progress</span>
 </div>
 
-## 🎯 Research Methodology
+## 🔬 Research Projects in Progress
 
-My research employs a multidisciplinary approach combining:
+<div class="pub-item">
+  <div class="pub-title">Model-based Clustering for Longitudinal Mixed-type Data: a Survey</div>
+  <div class="pub-venue">Ongoing Drafting</div>
+  <div style="margin-top: 8px; font-size: 0.9em; color: #666;">
+    Literature survey on clustering methods for longitudinal, mixed-type and longitudinal mixed-type data, based on Chapter 3 (state of the art) of my PhD thesis.
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-title">ClustMMM</div>
+  <div class="pub-venue">Ongoing Implementation</div>
+  <div style="margin-top: 8px; font-size: 0.9em; color: #666;">
+    R package implementing the MMM algorithm for clustering multivariate longitudinal mixed-type data. It will include comprehensive documentation, examples, and validation datasets.
+  </div>
+</div>
+
+## 🎯 Research Focus
 
 <div class="pub-item">
   <div class="pub-title">🔧 Statistical Methodology</div>
@@ -304,56 +316,17 @@ My research employs a multidisciplinary approach combining:
 <div class="pub-item">
   <div class="pub-title">💡 Applied Research</div>
   <div style="margin-top: 8px; font-size: 0.9em; color: #666;">
-    Real-world applications in longitudinal surveys, healthcare outcome prediction, social policy analysis, and migration studies with focus on practical implementation and interpretation.
+    Real-world applications in longitudinal surveys, social policy analysis, and financial data clustering with focus on practical implementation and interpretation.
   </div>
 </div>
 
-## 🏆 Awards & Recognition
-
-<div class="award-item">
-  <div class="conference-title">First Place - Sales Forecasting Challenge</div>
-  <div class="conference-details">FATER Company (June 2020) - Team competition to build predictive models for weekly sales volume estimation across the Italian market, analyzing seasonality, media impact, and promotion effects on total sales volume.</div>
-</div>
-
-## 🔬 Current Research Projects
-
-<div class="pub-item">
-  <div class="pub-title">Extensions of MMM Algorithm</div>
-  <div class="pub-venue">Ongoing Research (2024-2025)</div>
-  <div style="margin-top: 8px; font-size: 0.9em; color: #666;">
-    Developing advanced clustering methods for multivariate longitudinal mixed-type data with applications 
-    in healthcare outcome prediction and social survey analysis.
-  </div>
-</div>
-
-<div class="pub-item">
-  <div class="pub-title">Bayesian Approaches to Longitudinal Clustering</div>
-  <div class="pub-venue">Future Work</div>
-  <div style="margin-top: 8px; font-size: 0.9em; color: #666;">
-    Exploring Bayesian methodologies for uncertainty quantification in temporal clustering applications.
-  </div>
-</div>
 
 ## 💻 Software & Code
 
 <div class="pub-item">
-  <div class="pub-title">MMM R Package</div>
-  <div style="margin-top: 8px; font-size: 0.9em; color: #666;">
-    R implementation of the MMM algorithm for clustering multivariate longitudinal mixed-type data. Includes comprehensive documentation, examples, and validation datasets. <em>Available upon publication acceptance.</em>
-  </div>
-</div>
-
-<div class="pub-item">
   <div class="pub-title">Research Code Repository</div>
   <div style="margin-top: 8px; font-size: 0.9em; color: #666;">
-    Reproducible code for all published research papers with detailed README files, sample datasets, and step-by-step analysis scripts. Available on request for collaboration purposes.
-  </div>
-</div>
-
-<div class="pub-item">
-  <div class="pub-title">Statistical Tools & Methods</div>
-  <div style="margin-top: 8px; font-size: 0.9em; color: #666;">
-    Custom implementations in R, Python, and C++ for matrix-variate distributions, EM algorithms for mixed-type data, and visualization tools for longitudinal clustering results.
+    Reproducible code for published research papers with README files, sample datasets, and step-by-step analysis scripts. Some open, some available on request for collaboration purposes.
   </div>
 </div>
 
