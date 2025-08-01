@@ -211,7 +211,7 @@ author_profile: true
 </div>
 
 <div class="teaching-philosophy">
-  <strong>Teaching Philosophy:</strong> I believe in combining theoretical rigor with practical application, ensuring students understand both the mathematical foundations and real-world applications of statistical methods. My approach emphasizes hands-on learning through programming exercises and real datasets.
+  <strong>I believe in combining theoretical rigor with practical application, ensuring students understand both the mathematical foundations and real-world applications and usefulness of statistical methods. I always strive to adapt my courses to the needs and profiles of my students, combining academic rigor with kindness, never being judgmental. I believe that creating a supportive learning environment where students feel comfortable making mistakes and asking questions is essential for effective learning and personal growth.
 </div>
 
 ## 📚 Current Teaching (Academic Year 2024-2025)
@@ -407,7 +407,7 @@ author_profile: true
   <div class="course-item">
     <div class="course-title">🎯 L3 - Third Year Undergraduate</div>
     <div class="course-description">
-      <strong>Advanced statistics</strong> (189h total) - Inferential statistics, linear models, and data analysis across multiple programs.
+      <strong>Statistical methods</strong> (189h total) - Inferential statistics, linear models, and data analysis across multiple programs.
     </div>
   </div>
 
@@ -419,34 +419,6 @@ author_profile: true
   </div>
 </div>
 
-## 🌟 Additional Teaching Experience
-
-<div class="teaching-category">
-  
-  <div class="course-item">
-    <div class="course-title">Tuteur pour CLAMSS - Master en Statistique</div>
-    <div class="course-details">
-      <div class="course-level">Università di Bologna, Italy</div>
-      <div class="course-hours">Student Support Role</div>
-    </div>
-    <div class="course-period">December 2019 - October 2021</div>
-    <div class="course-description">
-      Administrative support for teaching activities and student orientation. Liaison role between students and administration, helping resolve academic and administrative issues for Master's in Statistics students.
-    </div>
-  </div>
-
-  <div class="course-item">
-    <div class="course-title">Collaboration étudiante - 150 heures</div>
-    <div class="course-details">
-      <div class="course-level">Università di Bologna, Italy</div>
-      <div class="course-hours">150h</div>
-    </div>
-    <div class="course-period">July 2018 - June 2019 (intermittent)</div>
-    <div class="course-description">
-      Support and supervision in computer laboratories and university classrooms. Technical assistance for students during practical sessions and laboratory work.
-    </div>
-  </div>
-</div>
 
 ## 🔧 Teaching Tools & Methods
 
@@ -456,7 +428,7 @@ author_profile: true
   <div class="stats-grid">
     <div class="stat-card">
       <div style="font-size: 1.2em; margin-bottom: 10px;">🛠️ Software</div>
-      <div class="stat-label">R, Python, C/C++<br>Jupyter Notebooks<br>RStudio</div>
+      <div class="stat-label">R, Python, C/C++<br>VSCode<br>RStudio</div>
     </div>
     <div class="stat-card">
       <div style="font-size: 1.2em; margin-bottom: 10px;">📊 Methods</div>
@@ -468,7 +440,7 @@ author_profile: true
     </div>
     <div class="stat-card">
       <div style="font-size: 1.2em; margin-bottom: 10px;">📈 Assessment</div>
-      <div class="stat-label">Project-based Learning<br>Continuous Evaluation<br>Peer Review</div>
+      <div class="stat-label">Project-based Assesment<br>Continuous Evaluation<br>Sit-down Exams</div>
     </div>
   </div>
 </div>
