@@ -249,7 +249,7 @@ author_profile: true
     </div>
     <div class="course-period">September 2024 - December 2024</div>
     <div class="course-description">
-      Comprehensive Python programming for data science, focussing on text analysis. From introduction covering syntax, data structures, classes, and inheritances to popular libraries such as NumPy, Pandas, Matplotlib, and Scikit-learn.
+      Comprehensive Python programming for data science, focusing on text analysis. From introduction covering syntax, data structures, classes, and inheritances to popular libraries such as NumPy, Pandas, Matplotlib, and Scikit-learn.
     </div>
   </div>
 
@@ -371,6 +371,7 @@ author_profile: true
       Multivariable calculus covering continuity, differentiability, partial differentiation, convexity and optimization.
     </div>
   </div>
+ </div> 
 </div>
 
 ## 🎯 Teaching Subjects & Expertise
