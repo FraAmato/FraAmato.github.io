@@ -199,11 +199,11 @@ author_profile: true
 
 <div class="stats-section">
   <h3>📊 Presentation Statistics</h3>
-  <div class="stat-card">
+  <div class="stats-grid">
+    <div class="stat-card">
       <div class="stat-number">1</div>
       <div class="stat-label">Invited Talk</div>
-    <\div>
-  <div class="stats-grid">
+    </div>
     <div class="stat-card">
       <div class="stat-number">2</div>
       <div class="stat-label">Organized Sessions</div>
@@ -215,6 +215,8 @@ author_profile: true
     <div class="stat-card">
       <div class="stat-number">3</div>
       <div class="stat-label">Poster Presentations</div>
+    </div>
+  </div>
 </div>
 
 <div class="talk-category">
