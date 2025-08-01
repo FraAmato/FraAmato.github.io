@@ -1,3 +1,263 @@
+---
+layout: archive
+title: "Curriculum Vitae"
+permalink: /cv/
+author_profile: true
+---
+
+<style>
+.cv-intro {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 25px;
+  border-radius: 8px;
+  margin: 30px 0;
+}
+
+.cv-intro h2 {
+  color: white;
+  margin-top: 0;
+  border-bottom: 2px solid rgba(255,255,255,0.3);
+  padding-bottom: 10px;
+}
+
+.cv-section {
+  margin: 40px 0;
+}
+
+.cv-section h2 {
+  color: #2c3e50;
+  border-left: 4px solid #3498db;
+  padding-left: 15px;
+  margin-bottom: 20px;
+}
+
+.cv-item {
+  background: #f8f9ff;
+  border-left: 4px solid #3498db;
+  padding: 20px;
+  margin: 15px 0;
+  border-radius: 0 8px 8px 0;
+  transition: transform 0.2s ease;
+}
+
+.cv-item:hover {
+  transform: translateX(5px);
+}
+
+.cv-title {
+  font-weight: bold;
+  color: #2c3e50;
+  font-size: 1.1em;
+  margin-bottom: 8px;
+}
+
+.cv-institution {
+  color: #34495e;
+  margin-bottom: 5px;
+  font-weight: 600;
+}
+
+.cv-period {
+  color: #7f8c8d;
+  font-style: italic;
+  margin-bottom: 8px;
+  font-size: 0.9em;
+}
+
+.cv-details {
+  color: #555;
+  font-size: 0.95em;
+  margin-top: 8px;
+}
+
+.cv-grade {
+  background: #e8f5e8;
+  color: #2e7d32;
+  padding: 3px 8px;
+  border-radius: 12px;
+  font-size: 0.85em;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 5px;
+}
+
+.experience-item {
+  background: #f0f8ff;
+  border-left: 4px solid #27ae60;
+  padding: 20px;
+  margin: 15px 0;
+  border-radius: 0 8px 8px 0;
+  transition: transform 0.2s ease;
+}
+
+.experience-item:hover {
+  transform: translateX(5px);
+}
+
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  margin: 25px 0;
+}
+
+.skill-card {
+  background: linear-gradient(135deg, #74b9ff, #0984e3);
+  color: white;
+  padding: 20px;
+  border-radius: 8px;
+  transition: transform 0.2s ease;
+}
+
+.skill-card:hover {
+  transform: translateY(-5px);
+}
+
+.skill-card h4 {
+  margin-top: 0;
+  margin-bottom: 15px;
+  font-size: 1.1em;
+}
+
+.skill-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.skill-list li {
+  padding: 3px 0;
+  font-size: 0.9em;
+}
+
+.award-item {
+  background: #fff8e1;
+  border-left: 4px solid #ff9800;
+  padding: 20px;
+  margin: 15px 0;
+  border-radius: 0 8px 8px 0;
+  transition: transform 0.2s ease;
+}
+
+.award-item:hover {
+  transform: translateX(5px);
+}
+
+.external-links {
+  background: #f8f9fa;
+  padding: 20px;
+  border-radius: 8px;
+  margin: 30px 0;
+  text-align: center;
+}
+
+.external-links a {
+  display: inline-block;
+  background: #6c757d;
+  color: white;
+  padding: 10px 20px;
+  margin: 5px;
+  border-radius: 25px;
+  text-decoration: none;
+  transition: background 0.3s ease;
+}
+
+.external-links a:hover {
+  background: #495057;
+  color: white;
+}
+
+.page-links {
+  background: #e8f5e8;
+  border-left: 4px solid #27ae60;
+  padding: 20px;
+  margin: 25px 0;
+  border-radius: 0 8px 8px 0;
+  text-align: center;
+}
+
+.page-links h3 {
+  margin-top: 0;
+  color: #2c3e50;
+}
+
+.language-item {
+  background: #f5f5f5;
+  border-left: 4px solid #9b59b6;
+  padding: 15px;
+  margin: 12px 0;
+  border-radius: 0 6px 6px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.language-name {
+  font-weight: bold;
+  color: #2c3e50;
+}
+
+.language-level {
+  background: #e8e6ff;
+  color: #6c5ce7;
+  padding: 3px 8px;
+  border-radius: 12px;
+  font-size: 0.85em;
+  font-weight: bold;
+}
+
+.contact-info {
+  background: #f8f9ff;
+  border: 2px solid #3498db;
+  padding: 20px;
+  border-radius: 8px;
+  margin: 25px 0;
+}
+
+.contact-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  margin-top: 15px;
+}
+
+.contact-item {
+  display: flex;
+  align-items: center;
+  margin: 8px 0;
+}
+
+.contact-icon {
+  margin-right: 10px;
+  font-size: 1.2em;
+}
+
+.contact-link {
+  color: #3498db;
+  text-decoration: none;
+}
+
+.contact-link:hover {
+  text-decoration: underline;
+}
+</style>
+
+<div class="cv-intro">
+  <h2>📄 Curriculum Vitae</h2>
+  <p>I am an <strong>ATER (Attaché Temporaire d'Enseignement et de Recherche)</strong> at Université Lumière Lyon 2, having recently defended my PhD in Applied Mathematics. My expertise lies in developing statistical methods for clustering longitudinal mixed-type data, with extensive teaching experience across multiple academic levels and programming languages.</p>
+</div>
+
+<div class="page-links">
+  <h3>🔗 Detailed Information</h3>
+  <p>For comprehensive details on specific areas, please visit:</p>
+  <div class="external-links">
+    <a href="/research/">📚 Research & Publications</a>
+    <a href="/talks/">🎤 Talks & Presentations</a>
+    <a href="/teaching/">👨‍🏫 Teaching Experience</a>
+  </div>
+</div>
+
 <div class="page-links">
   <h3>📄 Download CV</h3>
   <p>Complete PDF versions available for download:</p>
