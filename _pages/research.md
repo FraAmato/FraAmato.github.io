@@ -276,7 +276,7 @@ author_profile: true
     Supervisors: Julien Jacques, Isabelle Prim-Allaz<br>
     Laboratory: ERIC (Entrepôts, Représentation et Ingénierie des Connaissances)
   </div>
-  <span class="status-badge thesis">In Progress</span>
+  <span class="status-badge thesis">Defended</span>
 </div>
 
 ## 🔬 Research Projects in Progress
