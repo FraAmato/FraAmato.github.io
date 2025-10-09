@@ -170,13 +170,6 @@ redirect_from:
   </div>
 </div>
 
-<div class="award-item">
-  <div class="pub-title">10/2025</div>
-  <div style="margin-top: 8px; font-size: 0.9em; color: #666;">
-    Will join Université Claude Bernard Lyon 1 as ATER
-  </div>
-</div>
-
 ## 🎓 Education
 
 <div class="pub-item">
