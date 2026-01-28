@@ -137,7 +137,8 @@ redirect_from:
 
 <div class="research-focus">
   <h2>👋 About Me</h2>
-  <p>I am a temporary Researcher and Lecturer (ATER) at Université Lumière Lyon 2. I recently completed my PhD in Applied Mathematics, with a thesis titles <span class="highlight-text">"Mixed data temporal clustering for modelling longitudinal survey"</span>. My research focuses on developing novel statistical and computational approaches to analyze complex, time-varying datasets that combine continuous, categorical and count variables. This work has potential applications in healthcare, social sciences and behavioral research where understanding patterns over time is crucial.</p>
+  <p>I am a recent PhD graduate in Applied Mathematics from Université Lumière Lyon 2, with expertise in statistical machine learning and computational methods. My doctoral research developed the <span class="highlight-text">Mixture of Mixed-Matrices (MMM) model</span> for clustering longitudinal mixed-type data, with applications in social sciences, healthcare analytics, and market analysis. I'm passionate about developing rigorous statistical methods and exploring their applications across diverse fields.</p>
+</div>
 </div>
 
 <div class="research-interests">
@@ -145,19 +146,19 @@ redirect_from:
     <h4>🔍 Clustering</h4>
   </div>
   <div class="interest-card">
-    <h4>📊 Temporal data</h4>
+    <h4>📈 Temporal data</h4>
   </div>
   <div class="interest-card">
     <h4>🔀 Mixed-type data</h4>
   </div>
   <div class="interest-card">
-    <h4>📈 Statistical learning methods</h4>
+    <h4>📊 Statistical learning methods</h4>
   </div>
   <div class="interest-card">
     <h4>🧮 Computational statistics</h4>
   </div>
   <div class="interest-card">
-    <h4>🏥 Machine learning applications in healthcare/social sciences/finance</h4>
+    <h4>🏥 Machine learning applications in healthcare,social sciences and finance</h4>
   </div>
 </div>
 
@@ -199,9 +200,9 @@ redirect_from:
 <div class="research-interests">
   <div class="interest-card">
     <h4>📧 Email</h4>
-    <p><a href="mailto:francesco.amato@univ-lyon2.fr" style="color: white; text-decoration: none;">francesco.amato@univ-lyon2.fr</a></p>
+    <p><a href="mailto:fr.amato1997@gmail.com" style="color: white; text-decoration: none;">francesco.amato@univ-lyon2.fr</a></p>
   </div>
-  <div class="interest-card">
+  <!-- <div class="interest-card">
     <h4>📍 Office Address</h4>
     <p style="font-size: 0.9em; line-height: 1.4;">
       <strong>Laboratoire ERIC</strong><br>
@@ -210,5 +211,5 @@ redirect_from:
       69676 BRON Cedex<br>
       FRANCE
     </p>
-  </div>
+  </div> -->
 </div>
