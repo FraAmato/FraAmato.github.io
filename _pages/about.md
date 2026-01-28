@@ -200,7 +200,7 @@ redirect_from:
 <div class="research-interests">
   <div class="interest-card">
     <h4>📧 Email</h4>
-    <p><a href="mailto:fr.amato1997@gmail.com" style="color: white; text-decoration: none;">francesco.amato@univ-lyon2.fr</a></p>
+    <p><a href="mailto:fr.amato1997@gmail.com" style="color: white; text-decoration: none;">fr.amato1997@gmail.com</a></p>
   </div>
   <!-- <div class="interest-card">
     <h4>📍 Office Address</h4>
