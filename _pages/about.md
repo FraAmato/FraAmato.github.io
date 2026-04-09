@@ -139,7 +139,6 @@ redirect_from:
   <h2>👋 About Me</h2>
   <p>I am a recent PhD graduate in Applied Mathematics from Université Lumière Lyon 2, with expertise in statistical machine learning and computational methods. My doctoral research developed the <span class="highlight-text">Mixture of Mixed-Matrices (MMM) model</span> for clustering longitudinal mixed-type data, with applications in social sciences, healthcare analytics, and market analysis. I'm passionate about developing rigorous statistical methods and exploring their applications across diverse fields.</p>
 </div>
-</div>
 
 <div class="research-interests">
   <div class="interest-card">
