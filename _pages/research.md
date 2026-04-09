@@ -279,7 +279,8 @@ author_profile: true
    <div class="pub-links">
     <a href="[https://doi.org/10.1007/s11222-024-10390-z](https://doi.org/10.70675/48b18cbfz08b5z4245z8a4ezb31cac0f99cb)" class="doi-link" target="_blank">DOI</a>
     <a href="https://hal.science/tel-05108072v2" class="hal-link" target="_blank">HAL</a>
-  <span class="status-badge thesis">Defended</span>
+    <span class="status-badge thesis">Defended</span>
+  </div>
 </div>
 
 ## 🔬 Research Projects in Progress
