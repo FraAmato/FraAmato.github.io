@@ -233,17 +233,6 @@ author_profile: true
 ### Journal Articles
 
 <div class="pub-item">
-  <div class="pub-title">Clustering longitudinal ordinal data via finite mixture of matrix-variate distributions</div>
-  <div class="pub-authors"><strong>Francesco Amato</strong>, Julien Jacques, Isabelle Prim-Allaz</div>
-  <div class="pub-venue">Statistics and Computing, vol. 34, article 81 (2024)</div>
-  <div class="pub-links">
-    <a href="https://doi.org/10.1007/s11222-024-10390-z" class="doi-link" target="_blank">DOI</a>
-    <a href="https://hal.science/hal-04105669v2" class="hal-link" target="_blank">HAL</a>
-    <span class="status-badge published">Published</span>
-  </div>
-</div>
-
-<div class="pub-item">
   <div class="pub-title">A Comparison of Migrant Integration Policies via Mixture of Matrix-Normals</div>
   <div class="pub-authors">Salvatore Leonardo Alaimo, <strong>Francesco Amato</strong>, Filomena Maggino, Alfonso Piscitelli, Emiliano Seri</div>
   <div class="pub-venue">Social Indicators Research, vol. 165, pp. 473–494 (2023)</div>
@@ -254,12 +243,23 @@ author_profile: true
   </div>
 </div>
 
+<div class="pub-item">
+  <div class="pub-title">Clustering longitudinal ordinal data via finite mixture of matrix-variate distributions</div>
+  <div class="pub-authors"><strong>Francesco Amato</strong>, Julien Jacques, Isabelle Prim-Allaz</div>
+  <div class="pub-venue">Statistics and Computing, vol. 34, article 81 (2024)</div>
+  <div class="pub-links">
+    <a href="https://doi.org/10.1007/s11222-024-10390-z" class="doi-link" target="_blank">DOI</a>
+    <a href="https://hal.science/hal-04105669v2" class="hal-link" target="_blank">HAL</a>
+    <span class="status-badge published">Published</span>
+  </div>
+</div>
+
 ### Under Review
 
 <div class="pub-item">
   <div class="pub-title">MMM: Clustering Multivariate Longitudinal Mixed-type Data</div>
   <div class="pub-authors"><strong>Francesco Amato</strong>, Julien Jacques</div>
-  <div class="pub-venue">Submitted to Journal of Computational and Graphical Statistics (2024)</div>
+  <div class="pub-venue">Submitted to Computational Statistics and Data Analysis (2025)</div>
   <div class="pub-links">
     <a href="https://hal.science/hal-04807626v1" class="hal-link" target="_blank">HAL Preprint</a>
     <span class="status-badge under-review">Under Review</span>
@@ -276,6 +276,9 @@ author_profile: true
     Supervisors: Julien Jacques, Isabelle Prim-Allaz<br>
     Laboratory: ERIC (Entrepôts, Représentation et Ingénierie des Connaissances)
   </div>
+   <div class="pub-links">
+    <a href="[https://doi.org/10.1007/s11222-024-10390-z](https://doi.org/10.70675/48b18cbfz08b5z4245z8a4ezb31cac0f99cb)" class="doi-link" target="_blank">DOI</a>
+    <a href="https://hal.science/tel-05108072v2" class="hal-link" target="_blank">HAL</a>
   <span class="status-badge thesis">Defended</span>
 </div>
 
@@ -290,7 +293,7 @@ author_profile: true
 </div>
 
 <div class="pub-item">
-  <div class="pub-title">ClustMMM</div>
+  <div class="pub-title">MMMClust</div>
   <div class="pub-venue">Ongoing Implementation</div>
   <div style="margin-top: 8px; font-size: 0.9em; color: #666;">
     R package implementing the MMM algorithm for clustering multivariate longitudinal mixed-type data. It will include comprehensive documentation, examples, and validation datasets.
