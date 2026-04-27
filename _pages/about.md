@@ -157,7 +157,7 @@ redirect_from:
     <h4>🧮 Computational statistics</h4>
   </div>
   <div class="interest-card">
-    <h4>🏥 Machine learning applications in healthcare,social sciences and finance</h4>
+    <h4>🏥 Machine learning applications in social and life sciences</h4>
   </div>
 </div>
 
